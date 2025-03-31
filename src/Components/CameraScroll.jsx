@@ -799,7 +799,7 @@ export default function CameraScroll(props) {
             color="#2d1d04"
             material-opacity={0}
         >
-            2441139 Jitam
+            24411.. Jitam
         </Text>
 
         <Text
@@ -811,7 +811,7 @@ export default function CameraScroll(props) {
             color="#2d1d04"
             material-opacity={0}
         >
-            Adi
+            Bunny Adi
         </Text>
 
         <Text
@@ -883,7 +883,7 @@ export default function CameraScroll(props) {
             color="#2d1d04"
             material-opacity={0}
         >
-            Hmmm?
+            Tonight, let’s change that!
         </Text>
 
         <group >
@@ -923,7 +923,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                Socialize ourselves with the knowns and unknowns
+                Socialize ourselves with our knowns and unknowns
             </Text>
             <Text
                 ref={dut2TextRef}
@@ -948,7 +948,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                Azad, C417
+                 
             </Text>
         </group>
 
@@ -1138,7 +1138,7 @@ export default function CameraScroll(props) {
             maxWidth={1}
             material-opacity={0}                
         >
-            Let's meet at 8pm{"\n"}tonight!
+            Let's meet at 8pm{"\n"}tonight!{"\n"}at C417
         </Text>
 
     </>
